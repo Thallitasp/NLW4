@@ -1,5 +1,5 @@
-# NextLevelWeek3_OmniStack
-NLW#3 - Aprimorando os conhecimentos construindo um app em parceria com a Rocketseat.
+# NextLevelWeek4_Node
+NLW#4 - Aprimorando os conhecimentos construindo uma api em parceria com a Rocketseat.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
